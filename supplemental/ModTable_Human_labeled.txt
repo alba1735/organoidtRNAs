@@ -1,0 +1,197 @@
+	6	7	9	10	14	20	20a	26	27	32	34	37	e2	58	Isoacceptor
+tRNA-Ala-AGC-1				m2G		acp3U		m22G			I	m1I		m1A	Ala-AGC
+tRNA-Ala-AGC-2				m2G		acp3U		m22G			I	m1I		m1A	Ala-AGC
+tRNA-Ala-AGC-3						acp3U		m22G			I	m1I		m1A	Ala-AGC
+tRNA-Ala-AGC-4				m2G		acp3U		m22G			I	m1I		m1A	Ala-AGC
+tRNA-Ala-AGC-5				m2G		acp3U		m22G			I	m1I		m1A	Ala-AGC
+tRNA-Ala-AGC-6				m2G				m22G			I	m1I		m1A	Ala-AGC
+tRNA-Ala-AGC-7				m2G		acp3U		m22G			I	m1I		m1A	Ala-AGC
+tRNA-Ala-AGC-8				m2G				m22G			I	m1I		m1A	Ala-AGC
+tRNA-Ala-AGC-9								m22G			I	m1I		m1A	Ala-AGC
+tRNA-Ala-AGC-10								m22G			I	m1I		m1A	Ala-AGC
+tRNA-Ala-AGC-11				m2G				m22G			I	m1I		m1A	Ala-AGC
+tRNA-Ala-AGC-12				m2G				m22G			I	m1I		m1A	Ala-AGC
+tRNA-Ala-AGC-13				m2G				m22G			I	m1I		m1A	Ala-AGC
+tRNA-Ala-AGC-14				m2G				m22G			I	m1I		m1A	Ala-AGC
+tRNA-Ala-AGC-15				m2G				m22G			I	m1I		m1A	Ala-AGC
+tRNA-Ala-AGC-24				m2G				m22G			I	m1I		m1A	Ala-AGC
+tRNA-Ala-CGC-1				m2G		acp3U		m22G				m1I		m1A	Ala-CGC
+tRNA-Ala-CGC-2				m2G		acp3U		m22G				m1I		m1A	Ala-CGC
+tRNA-Ala-CGC-3				m2G		acp3U		m22G				m1I		m1A	Ala-CGC
+tRNA-Ala-CGC-4				m2G		acp3U		m22G				m1I		m1A	Ala-CGC
+tRNA-Ala-TGC-1				m2G		acp3U		m22G				m1I		m1A	Ala-TGC
+tRNA-Ala-TGC-2				m2G		acp3U		m22G				m1I		m1A	Ala-TGC
+tRNA-Ala-TGC-3				m2G		acp3U		m22G				m1I		m1A	Ala-TGC
+tRNA-Ala-TGC-4				m2G		acp3U		m22G				m1I		m1A	Ala-TGC
+tRNA-Ala-TGC-5				m2G		acp3U		m22G				m1I		m1A	Ala-TGC
+tRNA-Ala-TGC-6				m2G		acp3U						m1I		m1A	Ala-TGC
+tRNA-Arg-ACG-1			m1G					m22G			I	m1G		m1A	Arg-ACG
+tRNA-Arg-ACG-2			m1G					m22G			I	m1G		m1A	Arg-ACG
+tRNA-Arg-CCG-1			m1G					m22G				m1G		m1A	Arg-CCG
+tRNA-Arg-CCG-2			m1G									m1G		m1A	Arg-CCG
+tRNA-Arg-CCT-1			m1G							m3C				m1A	Arg-CCT
+tRNA-Arg-CCT-2			m1G							m3C				m1A	Arg-CCT
+tRNA-Arg-CCT-3	m2G		m1G							m3C				m1A	Arg-CCT
+tRNA-Arg-CCT-4			m1G							m3C				m1A	Arg-CCT
+tRNA-Arg-TCG-1			m1G					m22G				m1G		m1A	Arg-TCG
+tRNA-Arg-TCG-2		m2G	m1G					m22G				m1G		m1A	Arg-TCG
+tRNA-Arg-TCG-3			m1G					m22G				m1G		m1A	Arg-TCG
+tRNA-Arg-TCG-4		m2G	m1G					m22G				m1G		m1A	Arg-TCG
+tRNA-Arg-TCG-5		m2G	m1G					m22G				m1G		m1A	Arg-TCG
+tRNA-Arg-TCT-1			m1G							m3C				m1A	Arg-TCT
+tRNA-Arg-TCT-2			m1G							m3C				m1A	Arg-TCT
+tRNA-Arg-TCT-3			m1G							m3C				m1A	Arg-TCT
+tRNA-Arg-TCT-4			m1G					m22G		m3C				m1A	Arg-TCT
+tRNA-Arg-TCT-5			m1G							m3C				m1A	Arg-TCT
+tRNA-Asn-GTT-1			m1G				acp3U	m22G						m1A	Asn-GTT
+tRNA-Asn-GTT-2			m1G				acp3U	m22G						m1A	Asn-GTT
+tRNA-Asn-GTT-3			m1G				acp3U							m1A	Asn-GTT
+tRNA-Asn-GTT-4			m1G				acp3U	m22G						m1A	Asn-GTT
+tRNA-Asn-GTT-5			m1G				acp3U	m22G						m1A	Asn-GTT
+tRNA-Asn-GTT-6			m1G				acp3U	m22G						m1A	Asn-GTT
+tRNA-Asn-GTT-9			m1G				acp3U	m22G						m1A	Asn-GTT
+tRNA-Asp-GTC-1	m2G		m1A											m1A	Asp-GTC
+tRNA-Asp-GTC-2	m2G		m1A											m1A	Asp-GTC
+tRNA-Cys-GCA-1						acp3U						m1G		m1A	Cys-GCA
+tRNA-Cys-GCA-2						acp3U						m1G		m1A	Cys-GCA
+tRNA-Cys-GCA-3						acp3U						m1G		m1A	Cys-GCA
+tRNA-Cys-GCA-4						acp3U						m1G		m1A	Cys-GCA
+tRNA-Cys-GCA-5							acp3U					m1G		m1A	Cys-GCA
+tRNA-Cys-GCA-6						acp3U						m1G		m1A	Cys-GCA
+tRNA-Cys-GCA-7						acp3U						m1G		m1A	Cys-GCA
+tRNA-Cys-GCA-8						acp3U						m1G		m1A	Cys-GCA
+tRNA-Cys-GCA-9						acp3U						m1G		m1A	Cys-GCA
+tRNA-Cys-GCA-10						acp3U						m1G		m1A	Cys-GCA
+tRNA-Cys-GCA-12						acp3U						m1G		m1A	Cys-GCA
+tRNA-Cys-GCA-13						acp3U						m1G		m1A	Cys-GCA
+tRNA-Cys-GCA-14						acp3U						m1G		m1A	Cys-GCA
+tRNA-Gln-CTG-1			m1G											m1A	Gln-CTG
+tRNA-Gln-CTG-2			m1G											m1A	Gln-CTG
+tRNA-Gln-CTG-3			m1G											m1A	Gln-CTG
+tRNA-Gln-CTG-4			m1G											m1A	Gln-CTG
+tRNA-Gln-CTG-5			m1G											m1A	Gln-CTG
+tRNA-Gln-CTG-6			m1G											m1A	Gln-CTG
+tRNA-Gln-TTG-1			m1G											m1A	Gln-TTG
+tRNA-Gln-TTG-2			m1G											m1A	Gln-TTG
+tRNA-Gln-TTG-3			m1G											m1A	Gln-TTG
+tRNA-Gln-TTG-4			m1G											m1A	Gln-TTG
+tRNA-Glu-CTC-1	m2G		m1G											m1A	Glu-CTC
+tRNA-Glu-CTC-2	m2G		m1G											m1A	Glu-CTC
+tRNA-Glu-TTC-1			m1G											m1A	Glu-TTC
+tRNA-Glu-TTC-2			m1G											m1A	Glu-TTC
+tRNA-Glu-TTC-3	m2G		m1G											m1A	Glu-TTC
+tRNA-Glu-TTC-4	m2G		m1G											m1A	Glu-TTC
+tRNA-Gly-CCC-1	m2G		m1G											m1A	Gly-CCC
+tRNA-Gly-CCC-2	m2G		m1G											m1A	Gly-CCC
+tRNA-Gly-GCC-1	m2G		m1G											m1A	Gly-GCC
+tRNA-Gly-GCC-2	m2G		m1G											m1A	Gly-GCC
+tRNA-Gly-TCC-1	m2G		m1G											m1A	Gly-TCC
+tRNA-Gly-TCC-2	m2G		m1G											m1A	Gly-TCC
+tRNA-Gly-TCC-3	m2G		m1G											m1A	Gly-TCC
+tRNA-His-GTG-1	m2G											m1G		m1A	His-GTG
+tRNA-Ile-AAT-3				m2G			acp3U	m22G			I			m1A	Ile-AAT
+tRNA-Ile-AAT-4				m2G			acp3U	m22G			I			m1A	Ile-AAT
+tRNA-Ile-AAT-5				m2G				m22G			I			m1A	Ile-AAT
+tRNA-Ile-AAT-6	m2G			m2G			acp3U	m22G			I			m1A	Ile-AAT
+tRNA-Ile-AAT-7				m2G				m22G			I			m1A	Ile-AAT
+tRNA-Ile-AAT-8				m2G				m22G			I			m1A	Ile-AAT
+tRNA-Ile-AAT-12				m2G			acp3U	m22G			I			m1A	Ile-AAT
+tRNA-Ile-TAT-1			m1G				acp3U	m22G						m1A	Ile-TAT
+tRNA-Ile-TAT-2			m1G				acp3U	m22G						m1A	Ile-TAT
+tRNA-Ile-TAT-3			m1G				acp3U	m22G						m1A	Ile-TAT
+tRNA-iMet-CAT-1			m1G					m2G						m1A	iMet-CAT
+tRNA-iMet-CAT-2			m1G					m2G						m1A	iMet-CAT
+tRNA-Leu-AAG-1				m2G				m22G			I	m1G		m1A	Leu-AAG
+tRNA-Leu-AAG-2				m2G				m22G			I	m1G		m1A	Leu-AAG
+tRNA-Leu-CAA-1	m2G			m2G				m22G				m1G		m1A	Leu-CAA
+tRNA-Leu-CAA-2	m2G			m2G				m22G				m1G		m1A	Leu-CAA
+tRNA-Leu-CAA-3	m2G			m2G				m22G				m1G		m1A	Leu-CAA
+tRNA-Leu-CAA-4	m2G			m2G				m22G				m1G		m1A	Leu-CAA
+tRNA-Leu-CAG-1	m2G			m2G				m22G				m1G	m3C	m1A	Leu-CAG
+tRNA-Leu-CAG-2	m2G			m2G				m22G				m1G	m3C	m1A	Leu-CAG
+tRNA-Leu-TAA-1	m2G			m2G				m22G				m1G		m1A	Leu-TAA
+tRNA-Leu-TAA-2				m2G				m22G				m1G		m1A	Leu-TAA
+tRNA-Leu-TAA-3				m2G				m22G				m1G		m1A	Leu-TAA
+tRNA-Leu-TAA-4	m2G			m2G				m22G				m1G		m1A	Leu-TAA
+tRNA-Leu-TAG-1				m2G				m22G				m1G		m1A	Leu-TAG
+tRNA-Leu-TAG-2				m2G				m22G				m1G		m1A	Leu-TAG
+tRNA-Leu-TAG-3				m2G				m22G				m1G		m1A	Leu-TAG
+tRNA-Lys-CTT-1														m1A	Lys-CTT
+tRNA-Lys-CTT-2														m1A	Lys-CTT
+tRNA-Lys-CTT-3														m1A	Lys-CTT
+tRNA-Lys-CTT-4														m1A	Lys-CTT
+tRNA-Lys-TTT-1	m2G			m2G								ms2t6A		m1A	Lys-TTT
+tRNA-Lys-TTT-2	m2G			m2G								ms2t6A		m1A	Lys-TTT
+tRNA-Lys-TTT-3	m2G			m2G								ms2t6A		m1A	Lys-TTT
+tRNA-Lys-TTT-4	m2G			m2G								ms2t6A		m1A	Lys-TTT
+tRNA-Lys-TTT-6	m2G			m2G								ms2t6A		m1A	Lys-TTT
+tRNA-Met-CAT-1	m2G			m2G				m22G						m1A	Met-CAT
+tRNA-Met-CAT-2				m2G			m3C	m22G						m1A	Met-CAT
+tRNA-Met-CAT-3				m2G		m3C		m22G						m1A	Met-CAT
+tRNA-Met-CAT-4				m2G			m3C	m22G						m1A	Met-CAT
+tRNA-Met-CAT-5				m2G		m3C		m22G						m1A	Met-CAT
+tRNA-Met-CAT-6	m2G			m2G		m3C		m22G						m1A	Met-CAT
+tRNA-Phe-GAA-1					m1A			m22G				m1G		m1A	Phe-GAA
+tRNA-Phe-GAA-2					m1A			m22G				m1G		m1A	Phe-GAA
+tRNA-Pro-AGG-1	m2G		m1G								I	m1A		m1A	Pro-AGG
+tRNA-Pro-AGG-2	m2G		m1G								I	m1G		m1A	Pro-AGG
+tRNA-Pro-CGG-1	m2G		m1G									m1G		m1A	Pro-CGG
+tRNA-Pro-CGG-2	m2G		m1G									m1G		m1A	Pro-CGG
+tRNA-Pro-TGG-1	m2G		m1G									m1G		m1A	Pro-TGG
+tRNA-Pro-TGG-2	m2G		m1G									m1G		m1A	Pro-TGG
+tRNA-Pro-TGG-3	m2G		m1G									m1G		m1A	Pro-TGG
+tRNA-SeC-TCA-1														m1A	SeC-TCA
+tRNA-Ser-AGA-1								m22G		m3C	I			m1A	Ser-AGA
+tRNA-Ser-AGA-2								m22G		m3C	I		m3C	m1A	Ser-AGA
+tRNA-Ser-AGA-3								m22G		m3C	I			m1A	Ser-AGA
+tRNA-Ser-AGA-4			m1G					m22G		m3C	I		m3C	m1A	Ser-AGA
+tRNA-Ser-CGA-1	m2G							m22G		m3C			m3C	m1A	Ser-CGA
+tRNA-Ser-CGA-2	m2G							m22G		m3C			m3C	m1A	Ser-CGA
+tRNA-Ser-CGA-3	m2G							m22G		m3C				m1A	Ser-CGA
+tRNA-Ser-CGA-4	m2G							m22G		m3C				m1A	Ser-CGA
+tRNA-Ser-GCT-1	m2G							m22G		m3C		m6t6A	m3C	m1A	Ser-GCT
+tRNA-Ser-GCT-2	m2G							m22G		m3C		m6t6A	m3C	m1A	Ser-GCT
+tRNA-Ser-GCT-3	m2G							m22G		m3C		m6t6A		m1A	Ser-GCT
+tRNA-Ser-GCT-4	m2G							m22G		m3C		m6t6A	m3C	m1A	Ser-GCT
+tRNA-Ser-GCT-5	m2G							m22G		m3C		m6t6A	m3C	m1A	Ser-GCT
+tRNA-Ser-TGA-1	m2G							m22G		m3C			m3C	m1A	Ser-TGA
+tRNA-Ser-TGA-2								m22G		m3C				m1A	Ser-TGA
+tRNA-Ser-TGA-3								m22G		m3C			m3C	m1A	Ser-TGA
+tRNA-Ser-TGA-4								m22G		m3C				m1A	Ser-TGA
+tRNA-Thr-AGT-1		m2G	m1G				acp3U	m22G		m3C	I			m1A	Thr-AGT
+tRNA-Thr-AGT-2		m2G	m1G				acp3U	m22G		m3C	I			m1A	Thr-AGT
+tRNA-Thr-AGT-3				m2G			acp3U	m22G		m3C	I			m1A	Thr-AGT
+tRNA-Thr-AGT-4		m2G	m1G				acp3U	m22G		m3C	I			m1A	Thr-AGT
+tRNA-Thr-AGT-5		m2G	m1G				acp3U	m22G		m3C	I			m1A	Thr-AGT
+tRNA-Thr-AGT-6		m2G	m1G					m22G		m3C	I			m1A	Thr-AGT
+tRNA-Thr-CGT-1			m1G				acp3U	m22G		m3C				m1A	Thr-CGT
+tRNA-Thr-CGT-2			m1G			acp3U		m22G		m3C				m1A	Thr-CGT
+tRNA-Thr-CGT-3		m2G	m1G				acp3U	m22G		m3C				m1A	Thr-CGT
+tRNA-Thr-CGT-4			m1G			acp3U		m22G		m3C				m1A	Thr-CGT
+tRNA-Thr-TGT-1			m1G				acp3U	m22G		m3C				m1A	Thr-TGT
+tRNA-Thr-TGT-2				m2G			acp3U			m3C				m1A	Thr-TGT
+tRNA-Thr-TGT-4				m2G			acp3U			m3C				m1A	Thr-TGT
+tRNA-Thr-TGT-5				m2G			acp3U			m3C				m1A	Thr-TGT
+tRNA-Trp-CCA-1		m2G	m1G					m22G				m1G		m1A	Trp-CCA
+tRNA-Trp-CCA-2		m2G	m1G					m22G				m1G		m1A	Trp-CCA
+tRNA-Trp-CCA-3		m2G	m1G					m22G				m1G		m1A	Trp-CCA
+tRNA-Trp-CCA-4		m2G	m1G					m22G				m1G		m1A	Trp-CCA
+tRNA-Tyr-GTA-1	m2G			m2G		acp3U		m22G	m22G			m1G		m1A	Tyr-GTA
+tRNA-Tyr-GTA-2	m2G			m2G		acp3U		m22G	m22G			m1G		m1A	Tyr-GTA
+tRNA-Tyr-GTA-3	m2G			m2G		acp3U		m22G	m22G			m1G		m1A	Tyr-GTA
+tRNA-Tyr-GTA-4	m2G			m2G		acp3U		m22G	m22G			m1G		m1A	Tyr-GTA
+tRNA-Tyr-GTA-5	m2G			m2G		acp3U		m22G	m22G			m1G		m1A	Tyr-GTA
+tRNA-Tyr-GTA-6	m2G			m2G		acp3U		m22G	m22G			m1G		m1A	Tyr-GTA
+tRNA-Tyr-GTA-8	m2G			m2G		acp3U		m22G	m22G			m1G		m1A	Tyr-GTA
+tRNA-Val-AAC-1		m2G						m2G			I			m1A	Val-AAC
+tRNA-Val-AAC-2		m2G						m2G			I			m1A	Val-AAC
+tRNA-Val-AAC-3		m2G						m2G			I			m1A	Val-AAC
+tRNA-Val-CAC-1		m2G					acp3U	m2G						m1A	Val-CAC
+tRNA-Val-CAC-2		m2G					acp3U	m2G						m1A	Val-CAC
+tRNA-Val-CAC-3		m2G					acp3U							m1A	Val-CAC
+tRNA-Val-CAC-4		m2G					acp3U	m2G						m1A	Val-CAC
+tRNA-Val-CAC-5		m2G					acp3U	m2G						m1A	Val-CAC
+tRNA-Val-TAC-1							acp3U	m2G						m1A	Val-TAC
+tRNA-Val-TAC-2							acp3U	m2G						m1A	Val-TAC
+tRNA-Val-TAC-3							acp3U							m1A	Val-TAC
+tRNA-Val-TAC-4		m2G	m1G				acp3U							m1A	Val-TAC

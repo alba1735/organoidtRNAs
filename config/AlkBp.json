@@ -1,0 +1,11 @@
+{
+    "name": "AlkBp",
+    "obs": {
+        "treatment": ["AlkBp"],
+        "celltype": ["c305"],
+        "pseudogene": ["tRNA"]
+    },
+    "obs_r": {
+        "amino": ["Und"] 
+    }
+}

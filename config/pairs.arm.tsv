@@ -1,0 +1,10 @@
+AlkBm_arm_d0	AlkBp_arm_d0
+AlkBm_arm_d14	AlkBp_arm_d14
+AlkBm_arm_d35	AlkBp_arm_d35
+AlkBm_arm_d70	AlkBp_arm_d70
+AlkBp_arm_d0	AlkBp_arm_d14
+AlkBp_arm_d0	AlkBp_arm_d35
+AlkBp_arm_d0	AlkBp_arm_d70
+AlkBp_arm_d14	AlkBp_arm_d35
+AlkBp_arm_d14	AlkBp_arm_d70
+AlkBp_arm_d35	AlkBp_arm_d70

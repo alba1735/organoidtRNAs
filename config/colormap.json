@@ -1,0 +1,63 @@
+{
+    "timepoint": {
+        "Day 0": "#007FFF",
+        "Day 14": "#00FF7F",
+        "Day 35": "#FF007F",
+        "Day 70": "#FFD700"
+    },
+    "group": {
+        "AlkBm_arm_d0": "#007FFF",
+        "AlkBm_arm_d14": "#00FF7F",
+        "AlkBm_arm_d35": "#FF007F",
+        "AlkBm_arm_d70": "#FFD700",
+        "AlkBp_arm_d0": "#007FFF",
+        "AlkBp_arm_d14": "#00FF7F",
+        "AlkBp_arm_d35": "#FF007F",
+        "AlkBp_arm_d70": "#FFD700"
+    },
+    "amino": {
+        "Ala": "#1F77B4",
+        "Arg": "#AEC7E8",
+        "Asn": "#FF7F0E",
+        "Asp": "#FFBB78",
+        "Cys": "#6fe835",
+        "Gln": "#d0f2cb",
+        "Glu": "#D62728",
+        "Gly": "#FF9896",
+        "His": "#9258f5",
+        "Ile": "#deccfc",
+        "Leu": "#a65223",
+        "Lys": "#ffceb3",
+        "iMet": "#00d5e3",
+        "Met": "#b8fbff",
+        "Phe": "#edd500",
+        "Pro": "#ffff99",
+        "Ser": "#db56bc",
+        "Thr": "#F7B6D2",
+        "Trp": "#2CA02C",
+        "Tyr": "#98DF8A",
+        "Val": "#6a3d9a",
+        "SeC": "#C5B0D5",
+        "Sup": "#808080",
+        "Und": "#000000"
+    },
+    "neural_fine": {
+        "strong neural": "darkorange",
+        "neural": "gold",
+        "weak neural": "khaki",
+        "neutral": "mediumspringgreen",
+        "weak stem": "lightskyblue",
+        "stem": "deepskyblue",
+        "strong stem": "royalblue",
+        "undetermined": "darkgray"
+    },
+    "neural_broad": {
+        "neural": "gold",
+        "neutral": "mediumspringgreen",
+        "stem": "deepskyblue",
+        "undetermined": "darkgray"
+    },
+    "sequencingtype": {
+        "ARM-seq": "#9718db"
+    }
+}
