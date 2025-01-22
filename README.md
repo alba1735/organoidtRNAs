@@ -1,10 +1,11 @@
 # Identification of Specialized tRNA Expression in Early Human Brain Development
 
+[![DOI:10.1101/2025.01.22.633973](http://img.shields.io/badge/DOI-10.1101/2025.01.22.633973-bd2736.svg)](https://www.biorxiv.org/content/10.1101/2025.01.22.633973v1)
+
 <!-- [![DOI](https://zenodo.org/badge/DOI_GOES_HERE.svg)](https://zenodo.org/record/YOUR_ZENODO_RECORD_ID_HERE) -->
+**Update 1/22/2025: [bioRxiv link](https://www.biorxiv.org/content/10.1101/2025.01.22.633973v1)**
 
 ## About
-
-<!-- **[PLACEHOLDER FOR PAPER CITATION - Replace with the actual citation once published]** -->
 
 In this study, we investigated the expression of tRNA-derived small RNAs (tDRs) during early human cerebral cortex development. We utilized cerebral cortical organoid models and AlkB-facilitated RNA methylation sequencing (ARM-seq) to profile tDRs across distinct developmental stages. Our analysis revealed dynamic expression patterns of diverse tDR groups originating from a wide range of tRNA isodecoders, with several distinct groups exhibiting neural-specific expression. Computational analyses of these tDRs uncovered biased sequence motifs in over-represented tRNAs, which are enriched with particular RNA modifications. This provides initial insights into the traits that change within the pool of tDRs during neural development. This expanded catalog of tDRs provides a framework for future studies on tRNA function in brain development and enhances our understanding of the complexity of tDR dynamics in neural differentiation. Read alignment and tRNA/tDR quantification were performed using [tRAX](https://github.com/UCSC-LoweLab/tRAX.git), and [tRNAgraph](https://github.com/alba1735/tRNAgraph) was used for tRNA/tDR visualization. Custom Python code was developed for further analysis and figure generation.
 
